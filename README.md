@@ -13,9 +13,9 @@ OpenClaw runtime: 2026.6.9
 
 
 ## 下载
-Windows 桌面版：U-Claw.Setup.*.exe（安装到电脑）或 U-Claw.*.exe（免安装绿色版）
+Windows 桌面版：U-OpenClaw.Setup.*.exe（安装到电脑）或 U-OpenClaw.*.exe（免安装绿色版）
 
-macOS 桌面版：U-Claw-*-arm64.dmg（Apple Silicon）或 U-Claw-*.dmg（Intel）
+MacOS 桌面版：U-OpenClaw-*-arm64.dmg（Apple Silicon）或 U-OpenClaw-*.dmg（Intel）
 
 Windows 便携完整版（U 盘版）：u-openclaw-portable-windows-*.zip（约 150-200 MB，已预装 Node.js + OpenClaw，解压即用，零网络依赖）
 
@@ -27,6 +27,6 @@ Windows 下右键 U 盘 → 格式化 → 文件系统选择 NTFS。
 
 ## 注意：
 Windows 安装包未做代码签名，首次运行 SmartScreen 选择「仍要运行」。
-macOS DMG 未做公证，首次启动 xattr -rd com.apple.quarantine /Applications/U-OpenClaw.app 或右键打开。
+MacOS DMG 未做公证，首次启动 xattr -rd com.apple.quarantine /Applications/U-OpenClaw.app 或右键打开。
 
 
