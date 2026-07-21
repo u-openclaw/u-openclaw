@@ -3,7 +3,7 @@
 
 ## 官网
 
-官网  http://u.u-openclaw.com 
+官网「优龙虾 | U-OpenClaw」  http://u.u-openclaw.com 
 
 ## 支持模型
 打开 Config 选模型、填入自己的 API Key 即可使用，支持 DeepSeek / 通义 / Claude / GPT 等国内外大模型
