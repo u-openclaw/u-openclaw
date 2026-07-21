@@ -7,7 +7,7 @@
 打开 Config 选模型、填入自己的 API Key 即可使用，支持 DeepSeek / 通义 / Claude / GPT 等国内外大模型
 
 ## Token 
-想用「优龙虾」中转站（一个 Key 调用国内外全部模型、免翻墙）：先到 https://cloud.u-openclaw.com 注册并创建 Key
+想用「优龙虾」中转站（一个 Key 调用国内外全部模型、免翻墙）：先到 http://cloud.u-openclaw.com 注册并创建 Key
 聊天渠道开箱即用：便携版已离线预装 微信 / QQ / 钉钉 / 飞书 / 企业微信 插件，无需自己 npm 安装
 OpenClaw runtime: 2026.6.9
 
